@@ -3,7 +3,7 @@
 This Repo contains the .dotfiles that are used to customize my shell environment. 
 
 # Installation
-```
+``` bash
 # Clone the Repo to desired directory. Using home folder in example
 cd ~
 git clone https://github.com/chadmoon/.dotfiles.git
